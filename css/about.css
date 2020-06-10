@@ -1,0 +1,43 @@
+
+h1 {
+    text-align: center;
+    font-family: Playfair Display;
+    margin-top: 100px;
+    font-weight: 700;
+    
+    
+}
+
+#links {
+    padding-bottom: 20px;
+}
+
+p {
+    word-spacing: 2px;
+    padding-bottom: 20px;
+}
+p:nth-of-type(4) {
+    padding-bottom: 60px;
+}
+
+.contact {
+    padding-bottom: 30px;
+}
+
+#news {
+    padding-right: 10px;
+    padding-left: 10px;
+    word-spacing: 2px;
+}
+#place {
+    background: rgba(196, 196, 196, 0.4);
+    width: 480px;
+    height: 50px;
+    margin-right: 5px;
+}
+#submit {
+    width: 120px;
+    height: 50px;
+    color: white;
+    background: #3590F3;
+}
